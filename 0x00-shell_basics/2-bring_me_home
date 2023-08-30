@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$(cd ../..)\n"
+printf "$(cd ~)\n"
