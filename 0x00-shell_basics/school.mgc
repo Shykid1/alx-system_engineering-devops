@@ -1,2 +1,3 @@
-0 string SHOOL School data
-!:mime School
+#!/bin/bash
+echo "0 string SHOOL School data\n !:mime School"
+printf "$(ls -l)\n"
