@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "$(file /tmp/iamafile)\n)"
