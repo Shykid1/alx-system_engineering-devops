@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$(mkdir welcome welcom/to welcome/to/shcool)\n"
+printf "$(mkdir -p welcome/to/shcool)\n"
