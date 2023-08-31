@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "0 string SHOOL School data/n !:mime School, $(ls -la)\n"
+printf "$(file --mime-type *)\n"
