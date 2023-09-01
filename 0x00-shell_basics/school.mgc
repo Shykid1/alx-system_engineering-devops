@@ -1,2 +1,2 @@
-#!/bin/bash
-printf "$(file --mime-type *)\n"
+0 string SCHOOL School data
+!:mime School
