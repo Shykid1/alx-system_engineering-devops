@@ -1,2 +1,2 @@
 #!/bin/bash
-print "$(cp -u *.html ..)\n"
+cp -u *.html ..
